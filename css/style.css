@@ -153,6 +153,19 @@ ul.nav-list li a:hover { color:#333333; border-bottom: 3px solid #000000; paddin
 	display: block;
 	overflow: hidden;
 }
+.about_left1 {
+	background-image: url(../images/SR_images/BG/about11.jpg);
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	text-align: center;
+	height: 150px;
+	display: block;
+	overflow: hidden;
+}
 .about_btn {
   margin-top: 210px;
   position: relative;
@@ -197,6 +210,13 @@ ul.nav-list li a:hover { color:#333333; border-bottom: 3px solid #000000; paddin
     background-color: #f2efe5;
     display: block;
     height: 525px;
+    overflow: hidden;
+    text-align: center;
+}
+.about_right1 {
+	background-color: #f2efe5;
+    display: block;
+   
     overflow: hidden;
     text-align: center;
 }
